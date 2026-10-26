@@ -1,0 +1,4 @@
+TASK: Remove every space character from the file (keep the line structure).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

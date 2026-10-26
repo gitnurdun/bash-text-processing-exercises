@@ -1,0 +1,5 @@
+TASK: Merge the overlapping intervals and print them as START END lines sorted
+by start (touching intervals like 1-4 and 4-6 also merge).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+input.txt has one integer per line.
+TASK: Sort them in ascending numeric order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+input.txt: name dept salary age city.
+TASK: Print only the first line encountered for each department, keeping the
+original order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

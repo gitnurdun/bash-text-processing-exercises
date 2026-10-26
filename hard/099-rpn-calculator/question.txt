@@ -1,0 +1,9 @@
+input.txt has one Reverse Polish Notation expression per line (integers, + - * /,
+division truncates like integer arithmetic).
+TASK: Evaluate every expression, print one result per line.
+Gotcha: bash will happily glob-expand a bare * token into file names unless you
+disable pathname expansion (see: set -f).
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

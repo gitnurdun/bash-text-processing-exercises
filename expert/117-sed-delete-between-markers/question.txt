@@ -1,0 +1,5 @@
+TASK: Delete everything from the first line that is exactly #SECTION up to and
+including the SECOND such line. Print the remaining lines.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

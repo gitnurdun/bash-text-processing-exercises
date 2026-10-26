@@ -1,0 +1,6 @@
+[server]
+port=8080
+host=localhost
+[db]
+port=5432
+user=postgres

@@ -1,0 +1,6 @@
+SET name alpha
+SET port 8080
+SET name beta
+GET name
+GET port
+GET missing

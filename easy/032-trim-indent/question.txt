@@ -1,0 +1,5 @@
+input.txt lines have leading spaces (indentation).
+TASK: Remove the leading spaces of every line (keep trailing ones).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

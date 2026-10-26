@@ -1,0 +1,5 @@
+TASK: Insert a comma every 3 digits from the right in every integer of 4+ digits
+(only pure digit runs; depth40 has a digit run of 2 so it stays unchanged).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

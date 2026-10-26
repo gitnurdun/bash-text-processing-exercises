@@ -1,0 +1,5 @@
+TASK: Sort the version numbers so that 1.2.9 < 1.2.10 < 1.10.0 (natural version
+order, keep duplicates).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

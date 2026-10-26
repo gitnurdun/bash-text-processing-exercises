@@ -1,0 +1,6 @@
+http://alpha.example.com/page1
+https://beta.example.com/x
+http://alpha.example.com/page2
+https://gamma.io/a
+http://alpha.example.com/
+https://beta.example.com/y

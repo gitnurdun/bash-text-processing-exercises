@@ -1,0 +1,5 @@
+TASK: Find the 3 most frequent words (letters only, case-insensitive; ignore
+punctuation and digits). Output lines: COUNT WORD, most frequent first.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

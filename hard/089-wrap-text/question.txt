@@ -1,0 +1,5 @@
+TASK: Re-wrap every line so that no output line exceeds 40 characters, breaking
+only at spaces (never mid-word). Keep word order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

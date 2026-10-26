@@ -1,0 +1,5 @@
+TASK: Delete every character that is not an ASCII letter, keeping the line
+structure (newlines stay). Lines that end up empty must still be printed empty.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

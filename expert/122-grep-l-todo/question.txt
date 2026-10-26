@@ -1,0 +1,6 @@
+The data/ folder holds three text files.
+TASK: Print the names of the files that contain the word TODO, one per line,
+sorted. Relative paths as given (data/...), no duplicate entries per file.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

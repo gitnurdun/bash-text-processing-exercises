@@ -1,0 +1,7 @@
+TASK: Two replacements over the whole file, in this order:
+1) replace every maximal run of digits with the single letter N
+2) replace every 'single-quoted' fragment (quotes kept, inner text dropped) with 'STR'
+(id5 = 'hello world' done -> idN = 'STR' done)
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

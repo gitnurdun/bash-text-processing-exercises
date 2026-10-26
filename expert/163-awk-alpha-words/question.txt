@@ -1,0 +1,5 @@
+TASK: A "word" is a maximal run of ASCII letters. Print the number of words on
+each line (e.g. "a-b-c d_e" has 4). One count per line, in order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+input.txt uses :: as separator: user::shell::state.
+TASK: Reformat every line to: user is shell (state)
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

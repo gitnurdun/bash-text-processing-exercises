@@ -1,0 +1,5 @@
+TASK: Convert this markdown table into CSV: drop the separator row and the
+pipes, trim spaces, one row per line as name,dept (keep the header row).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+TASK: Re-print the code with 4-space indent per brace nesting level.
+Rules: if a line starts with } decrease depth BEFORE printing; after printing,
+if the line contains { increase depth. No line contains both ( in these data).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

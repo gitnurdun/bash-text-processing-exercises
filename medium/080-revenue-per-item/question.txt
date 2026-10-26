@@ -1,0 +1,6 @@
+input.txt is a CSV with header: date,item,qty,price.
+TASK: Total revenue (qty*price) per item, 2 decimals. Output: ITEM TOTAL,
+sorted by item name.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

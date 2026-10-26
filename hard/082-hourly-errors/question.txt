@@ -1,0 +1,5 @@
+input.txt log lines: date time LEVEL message.
+TASK: Count ERROR lines per hour of day. Output lines: HH:COUNT sorted by hour.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

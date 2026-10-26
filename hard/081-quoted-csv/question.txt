@@ -1,0 +1,6 @@
+input.txt is a CSV where fields may be wrapped in double quotes and quoted fields
+can contain commas. Header: id,name,note.
+TASK: Print only the name column, without the quotes, one per data row.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

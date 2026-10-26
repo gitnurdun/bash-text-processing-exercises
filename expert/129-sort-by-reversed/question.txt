@@ -1,0 +1,6 @@
+TASK: Sort the words alphabetically BY THEIR REVERSED FORM (compare from the last
+character backwards), then print the words in their normal spelling.
+Ties: keep original order (stable).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

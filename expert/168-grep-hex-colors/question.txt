@@ -1,0 +1,6 @@
+TASK: Extract every hex color of the form # followed by EXACTLY 6 hex digits
+(the run must be hex; #12345 has only 5, x#zzzzzz has none) and print them
+UPPERCASED, one per line, in order of appearance.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

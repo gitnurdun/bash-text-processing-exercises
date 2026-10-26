@@ -1,0 +1,12 @@
+192.168.1.10 GET /index.html 200 12ms
+10.0.0.5 POST /api/login 401 88ms
+192.168.1.10 GET /about.html 200 9ms
+10.0.0.5 POST /api/login 200 33ms
+172.16.0.3 GET /index.html 500 145ms
+192.168.1.10 GET /style.css 200 5ms
+172.16.0.3 POST /api/data 403 21ms
+10.0.0.5 GET /contact.html 404 7ms
+192.168.1.10 GET /api/data 200 40ms
+172.16.0.3 GET /index.html 200 15ms
+10.0.0.5 POST /api/login 401 91ms
+192.168.1.10 GET /about.html 200 8ms

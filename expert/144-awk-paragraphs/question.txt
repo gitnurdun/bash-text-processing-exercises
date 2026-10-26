@@ -1,0 +1,6 @@
+Paragraphs are separated by EMPTY lines.
+TASK: Print one line per paragraph: PARAGRAPH_NUMBER WORD_COUNT (words are
+whitespace-separated across all lines of the paragraph).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

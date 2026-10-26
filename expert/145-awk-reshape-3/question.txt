@@ -1,0 +1,5 @@
+TASK: Reprint the numbers 3 per line (space separated, same order). If a partial
+group remains at the end, print it on its own line too.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

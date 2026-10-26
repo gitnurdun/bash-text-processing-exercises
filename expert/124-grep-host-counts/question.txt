@@ -1,0 +1,5 @@
+TASK: Extract the host from each URL (drop the scheme and everything from the
+first / onward), count hits per host, print: COUNT HOST, most hits first.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

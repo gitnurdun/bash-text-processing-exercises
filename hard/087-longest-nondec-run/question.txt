@@ -1,0 +1,5 @@
+TASK: Find the length of the longest run of consecutive lines where each number
+is >= the previous one. Print just the length.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

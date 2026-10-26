@@ -1,0 +1,5 @@
+input.txt: name dept salary age city.
+TASK: Output a 2-column CSV: NAME,SALARY for each line, same order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

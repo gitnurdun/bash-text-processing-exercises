@@ -1,0 +1,5 @@
+TASK: Print every line of the file followed by an empty line (including after the
+last one). Hint: sed 'G' appends the hold space.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+He said "hello" and left.
+Flag "debug=true" is set.
+A "quoted phrase" inside quotes.
+Nothing here.
+End with "tail".

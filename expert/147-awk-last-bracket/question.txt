@@ -1,0 +1,6 @@
+TASK: Print the content of the LAST [....] span of each line (without brackets),
+or an empty line when the line has no brackets. Use awk match() with RSTART/RLENGTH
+in a loop.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

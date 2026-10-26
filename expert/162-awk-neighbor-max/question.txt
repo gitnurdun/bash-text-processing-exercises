@@ -1,0 +1,6 @@
+input.txt: label a b c (numbers).
+TASK: Print the label of every row where the MIDDLE value b is strictly greater
+than the average of a and c.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

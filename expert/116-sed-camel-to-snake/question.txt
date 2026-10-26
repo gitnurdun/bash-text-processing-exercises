@@ -1,0 +1,6 @@
+TASK: For each line, insert an underscore before every uppercase letter that
+directly follows a lowercase letter or digit, then convert the whole result to
+lowercase. (parseJSONFile -> parse_jsonfile)
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

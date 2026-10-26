@@ -1,0 +1,5 @@
+TASK: Print each line with its fields rotated one position to the LEFT: the
+first field moves to the end (a b c d -> b c d a). Fields separated by one space.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

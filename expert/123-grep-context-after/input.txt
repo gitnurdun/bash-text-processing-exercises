@@ -1,0 +1,8 @@
+boot ok
+ERROR: disk full
+retrying now
+gave up
+INFO: daily job
+ERROR: net down
+patched
+everything fine

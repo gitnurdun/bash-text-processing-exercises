@@ -1,0 +1,6 @@
+Each line is a sequence of numbers.
+TASK: Print YES if the whole line is an arithmetic progression (constant
+difference between neighbours), else NO, one answer per line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

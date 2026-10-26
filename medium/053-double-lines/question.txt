@@ -1,0 +1,4 @@
+TASK: Print every line of the file twice (back to back).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

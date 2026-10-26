@@ -1,0 +1,6 @@
+input.txt: name dept salary age city.
+TASK: Rank departments by number of employees (most first). Ties: alphabetical.
+Output: COUNT DEPT, only the top 3.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,4 @@
+TASK: Replace every occurrence of Shanghai with SH and print the whole file.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+Two key=value config files (input.txt = old, input.txt2 = new).
+TASK: Print only the keys whose value changed, as: KEY OLDVALUE NEWVALUE
+(sorted by key). Ignore unchanged, added or removed keys.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

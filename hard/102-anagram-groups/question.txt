@@ -1,0 +1,7 @@
+TASK: Group anagram words together. Print one group per line: the words of the
+group separated by single spaces, in order of first appearance in the file.
+(eat tea tan ate nat bat -> eat tea ate / tan nat / bat)
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

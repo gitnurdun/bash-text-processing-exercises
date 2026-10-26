@@ -1,0 +1,5 @@
+TASK: Frequency table with share: WORD COUNT PERCENT (percent of all lines, 1
+decimal). Sorted by word.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

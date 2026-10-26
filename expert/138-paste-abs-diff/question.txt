@@ -1,0 +1,5 @@
+Two equal-length number files. TASK: Print the absolute difference of the two
+numbers on each paired line, one per line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+input.txt: name dept salary age city.
+TASK: Count records per city. Output lines in the form: COUNT CITY,
+sorted by city name.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

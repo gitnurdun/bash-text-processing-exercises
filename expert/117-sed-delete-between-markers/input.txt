@@ -1,0 +1,6 @@
+keep1
+#SECTION
+a=1
+b=2
+#SECTION
+keep2

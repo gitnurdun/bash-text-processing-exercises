@@ -1,0 +1,7 @@
+vars.txt has key=value pairs. template.txt has {{key}} placeholders.
+TASK: Print the template with every {{key}} replaced by its value (keys not in
+vars.txt stay as-is).
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

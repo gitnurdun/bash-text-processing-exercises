@@ -1,0 +1,5 @@
+TASK: Print only the lines that occur MORE THAN ONCE, with their count, in the
+form: COUNT LINE, ordered alphabetically by line. (sort + uniq -cd style.)
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

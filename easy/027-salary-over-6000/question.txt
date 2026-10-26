@@ -1,0 +1,5 @@
+input.txt: name dept salary age city.
+TASK: Print the whole lines where salary is greater than 6000.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

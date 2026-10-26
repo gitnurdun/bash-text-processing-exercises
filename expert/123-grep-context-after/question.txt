@@ -1,0 +1,5 @@
+TASK: Print every ERROR line together with the 2 lines AFTER it (use grep -A 2).
+Keep grep's own '--' separator that it inserts between non-adjacent match groups.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

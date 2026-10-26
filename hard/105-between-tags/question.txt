@@ -1,0 +1,5 @@
+TASK: Print the content between <div> and </div> markers (markers themselves
+excluded), for every block, in order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

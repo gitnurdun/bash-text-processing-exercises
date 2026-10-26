@@ -1,0 +1,5 @@
+TASK: Extract every run of digits from the file and print each on its own line,
+in order of appearance (one number per line).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+input.txt is a CSV with header: date,item,qty,price.
+TASK: Average qty per item, 1 decimal place. Output lines: ITEM AVG, sorted by item.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

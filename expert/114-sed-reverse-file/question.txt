@@ -1,0 +1,5 @@
+TASK: Print the file with lines in reverse order using sed only (no tac).
+Hint: the classic hold-space one-liner: 1!G;h;$!d
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

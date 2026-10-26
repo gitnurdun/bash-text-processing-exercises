@@ -1,0 +1,6 @@
+1 apple 10
+1 banana 5
+2 apple 7
+1 apple 3
+2 cherry 9
+3 banana 4

@@ -1,0 +1,4 @@
+root::/bin/bash::active
+daemon::/usr/sbin::locked
+alice::/bin/zsh::active
+bob::/bin/bash::active

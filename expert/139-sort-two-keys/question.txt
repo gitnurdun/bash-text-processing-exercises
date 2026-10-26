@@ -1,0 +1,7 @@
+input.txt: name month amount.
+TASK: Sort by month ascending, then by amount descending within the same month.
+Rows fully tied on both keys end up ordered by the whole line text (GNU sort
+default last-resort comparison).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

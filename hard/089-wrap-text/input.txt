@@ -1,0 +1,2 @@
+The bash shell is a powerful tool for text processing and automation tasks
+Write small scripts that combine grep sed awk and sort to solve big problems quickly

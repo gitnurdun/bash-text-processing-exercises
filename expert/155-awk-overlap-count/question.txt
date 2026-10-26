@@ -1,0 +1,6 @@
+TASK: Count how many times the substring "aa" occurs in each line COUNTING
+OVERLAPS (aaa contains 2). Print one number per line. grep -o cannot do overlaps;
+use awk index() in a loop.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

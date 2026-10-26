@@ -1,0 +1,6 @@
+input.txt: name dept salary age city.
+TASK: List members per department as DEPT: Name1, Name2, ... (names in file
+order), one department per line, sorted by dept name.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+TASK: Print each line as: name right-aligned in 10 chars, then a space, then the
+number right-aligned in 6 chars (so columns line up). Exact spacing matters.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

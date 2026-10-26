@@ -1,0 +1,5 @@
+TASK: Transpose the matrix: print one line per COLUMN, the values of that column
+down the rows, space separated (a e i / b f j / ...).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

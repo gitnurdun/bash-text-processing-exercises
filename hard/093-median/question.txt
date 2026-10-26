@@ -1,0 +1,5 @@
+TASK: Print the median of the numbers (average of the two middle values when the
+count is even), with 1 decimal place.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

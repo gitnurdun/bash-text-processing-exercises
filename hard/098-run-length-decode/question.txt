@@ -1,0 +1,5 @@
+TASK: Decode run-length encoded lines (see the a3b3c4d1 -> aaabbbccccd style):
+each <letter><digit> pair repeats the letter that many times.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

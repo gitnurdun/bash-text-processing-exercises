@@ -1,0 +1,8 @@
+TASK: Write a script that uses wc to print exactly:
+LINES <count>
+WORDS <count>
+(numbers only, no file name).
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

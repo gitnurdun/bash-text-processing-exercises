@@ -1,0 +1,5 @@
+TASK: Print input.txt twice side by side, one line per input line, the two copies
+separated by a single TAB character (same word repeated in both columns).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

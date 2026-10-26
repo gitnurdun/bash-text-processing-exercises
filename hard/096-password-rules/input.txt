@@ -1,0 +1,6 @@
+Abcdef1
+short
+ALLCAPS1
+Good1Pass
+xxyy99zz
+NoDigits!

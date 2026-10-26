@@ -1,0 +1,5 @@
+TASK: Add up every integer that appears anywhere in the text (integers embedded
+in words count too, e.g. input_2024.csv contributes 2024). Print just the sum.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

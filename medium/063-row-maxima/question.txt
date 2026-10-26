@@ -1,0 +1,5 @@
+input.txt is a numeric matrix (space separated, one row per line).
+TASK: Print the maximum value of each row, one per line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

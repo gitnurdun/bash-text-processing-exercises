@@ -1,0 +1,5 @@
+input.txt is an access log: ip method path status time.
+TASK: Find the IP with the most requests. Output one line: COUNT IP
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

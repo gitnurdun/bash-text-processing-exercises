@@ -1,0 +1,6 @@
+TASK: Merge the two files alternately: line 1 of input.txt, line 1 of input.txt2,
+line 2 of input.txt, ... When one file runs out, append the remaining lines of
+the other.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

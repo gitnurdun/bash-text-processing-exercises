@@ -1,0 +1,6 @@
+list.txt contains forbidden lines. TASK: Print input.txt without any line that
+EXACTLY equals a line of list.txt (partial overlaps do not count: "apple pie"
+stays even though "apple" is forbidden). Use grep with -f.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

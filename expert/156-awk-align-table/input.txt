@@ -1,0 +1,4 @@
+gauge 4
+widget 30
+bolt 7
+longname 250

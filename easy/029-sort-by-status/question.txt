@@ -1,0 +1,6 @@
+input.txt is an access log: ip method path status time.
+TASK: Sort the lines by the status code (field 4), ascending numeric.
+For equal status codes keep the original file order (stable sort).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

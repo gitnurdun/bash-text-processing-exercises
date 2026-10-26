@@ -1,0 +1,5 @@
+TASK: Remove every <...> tag from the file (everything between < and > inclusive).
+Keep the remaining text and line structure. (Sed can do it in one pass.)
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

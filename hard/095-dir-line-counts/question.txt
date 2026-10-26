@@ -1,0 +1,7 @@
+The data/ folder holds several text files.
+TASK: Write a script that prints "<basename> <line count>" for every file in
+data/, sorted by basename.
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

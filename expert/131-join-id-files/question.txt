@@ -1,0 +1,6 @@
+input.txt: id dept. input.txt2: id score. Both already sorted by id.
+TASK: Print the ids present in BOTH files with both attributes: ID DEPT SCORE.
+Use the join command (no awk!).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

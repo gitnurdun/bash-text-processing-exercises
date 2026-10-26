@@ -1,0 +1,5 @@
+input.txt is a numeric matrix (4 columns, space separated).
+TASK: Print the maximum of each column on one line: MAX1 MAX2 MAX3 MAX4
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

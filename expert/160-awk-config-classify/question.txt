@@ -1,0 +1,8 @@
+input.txt is the old config, input.txt2 the new one (key=value).
+TASK: Write a script that prints one line per key, sorted alphabetically by key:
+SAME key | CHANGED key | NEW_ONLY key | OLD_ONLY key
+(the category name, then the key, separated by a space).
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

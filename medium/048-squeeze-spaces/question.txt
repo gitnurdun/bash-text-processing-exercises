@@ -1,0 +1,5 @@
+TASK: Replace every run of 2+ consecutive spaces with a single space
+(keep everything else unchanged).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

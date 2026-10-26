@@ -1,0 +1,4 @@
+TASK: Print the file skipping the first 2 lines and the last line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

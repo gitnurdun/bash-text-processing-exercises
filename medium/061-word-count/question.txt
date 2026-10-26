@@ -1,0 +1,7 @@
+TASK: Write a script that reads input.txt and prints:
+WORDS <total word count>
+LINES <total line count>
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+TASK: Extract every dotted-quad number sequence, keep only those where all four
+octets are <= 255, deduplicate and print them sorted alphabetically (as strings).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

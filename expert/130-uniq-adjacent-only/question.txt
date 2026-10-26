@@ -1,0 +1,5 @@
+TASK: Remove every RUN of 2+ identical ADJACENT lines (do NOT sort first!).
+A word that reappears later, non-adjacent, is still printed.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+input.txt: name dept salary age city.
+TASK: Print the highest salary value (just the number).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

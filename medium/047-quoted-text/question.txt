@@ -1,0 +1,5 @@
+TASK: Extract every "double quoted" fragment from the file and print one per line,
+quotes included, in order of appearance.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,5 @@
+input.txt has one JSON-ish object per line with keys user, role, state.
+TASK: Print the user values of every line whose state is off, one per line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

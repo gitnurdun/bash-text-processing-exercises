@@ -1,0 +1,6 @@
+input.txt: student score. input.txt2: student grade (some students are missing).
+TASK: For every line of input.txt print NAME SCORE GRADE, using - when there is
+no grade. Keep input.txt order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

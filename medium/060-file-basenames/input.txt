@@ -1,0 +1,6 @@
+/home/alice/report.txt
+/var/log/sys.log
+./src/main.c
+docs/notes.md
+/opt/app/config.yaml
+/tmp/data.csv.bak

@@ -1,0 +1,5 @@
+TASK: For each line print OK if its parentheses are balanced (every prefix has at
+least as many ( as ), and the totals are equal), otherwise BAD.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

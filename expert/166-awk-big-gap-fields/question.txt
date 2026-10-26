@@ -1,0 +1,6 @@
+TASK: Fields are separated by runs of 3+ spaces (single/double spaces belong to
+a field - there are none here but the rule matters). Set FS accordingly and
+reprint every row as field1<TAB>field2<TAB>field3.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

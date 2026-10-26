@@ -1,0 +1,5 @@
+input.txt holds key=value settings (plus comments and blank lines).
+TASK: Print the part before the = on every line (the keys), keeping all lines.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

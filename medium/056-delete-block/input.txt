@@ -1,0 +1,8 @@
+start
+keep1
+BEGIN
+drop1
+drop2
+END
+keep2
+end

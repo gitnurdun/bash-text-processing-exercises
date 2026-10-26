@@ -1,0 +1,5 @@
+TASK: Insert the line "== settings ==" immediately before the FIRST line that
+contains an = sign. Print the whole file.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

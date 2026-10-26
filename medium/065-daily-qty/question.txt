@@ -1,0 +1,5 @@
+input.txt is a CSV with header: date,item,qty,price.
+TASK: Sum qty per date. Output lines: DATE TOTAL, sorted by date.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

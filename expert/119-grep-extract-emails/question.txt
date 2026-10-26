@@ -1,0 +1,6 @@
+TASK: Extract every valid email (local part: letters digits . _ % + - before @,
+domain: letters digits . - then a dot and 2+ letters) and print one per line in
+order of appearance. Use grep -oE.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

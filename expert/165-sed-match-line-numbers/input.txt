@@ -1,0 +1,6 @@
+ok
+ERROR: a
+fine
+ERROR: b
+end
+ERROR: c

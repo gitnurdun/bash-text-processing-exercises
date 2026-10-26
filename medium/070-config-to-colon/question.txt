@@ -1,0 +1,5 @@
+input.txt holds key=value settings plus comment (#) and blank lines.
+TASK: Drop comments and blank lines, replace the first = with : and print the rest.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

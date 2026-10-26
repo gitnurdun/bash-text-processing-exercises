@@ -1,0 +1,6 @@
+input.txt is an INI file with [section] headers and key=value lines.
+TASK: Flatten to SECTION.KEY=VALUE lines (section name without brackets), keeping
+order. Skip blank lines.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

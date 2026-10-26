@@ -1,0 +1,6 @@
+TASK: For every maximal RUN of identical adjacent lines print: LINE COUNT.
+Runs are reported in file order (x appears twice as two separate groups elsewhere
+only if non-adjacent; here each run is one output line).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

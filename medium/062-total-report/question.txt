@@ -1,0 +1,6 @@
+input.txt: name dept salary age city.
+TASK: Print the whole file unchanged, then append one final line:
+TOTAL <sum of all salaries>
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

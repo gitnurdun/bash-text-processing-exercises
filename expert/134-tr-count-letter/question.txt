@@ -1,0 +1,5 @@
+TASK: Count how many times the letter a appears in the WHOLE file (not lines!)
+and print just that number. Use tr and wc -c.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+input.txt: values (one per line). input.txt2: the matching weights.
+TASK: Print the weighted average of the values with 2 decimals.
+Read the weights with the NR==FNR two-file pattern.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

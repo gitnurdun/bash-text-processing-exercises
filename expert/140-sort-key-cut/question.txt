@@ -1,0 +1,6 @@
+input.txt lines are token:number.
+TASK: Sort by the number field descending and print ONLY the tokens (use sort's
+field separator options, then cut).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,4 @@
+bg #a1b2c3 border #FFF00A
+not a color: #12345
+#ABCDEF lower #000000
+x#zzzzzz

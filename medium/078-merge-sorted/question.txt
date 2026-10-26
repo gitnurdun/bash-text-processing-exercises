@@ -1,0 +1,5 @@
+Both files contain numbers already sorted ascending.
+TASK: Merge them into one ascending numeric list (one number per line).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

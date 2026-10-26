@@ -1,0 +1,6 @@
+Both files are sorted word lists (old in input.txt, new in input.txt2).
+TASK: Print only the words that are in input.txt2 but NOT in input.txt.
+Use comm (no grep -v -f tricks).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,4 @@
+TASK: Print only the words that read the same forwards and backwards.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

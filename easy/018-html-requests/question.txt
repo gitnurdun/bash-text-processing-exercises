@@ -1,0 +1,5 @@
+input.txt is an access log: ip method path status time.
+TASK: Print only the lines whose path ends with .html.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

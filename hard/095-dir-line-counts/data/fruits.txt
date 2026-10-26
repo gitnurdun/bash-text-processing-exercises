@@ -1,0 +1,12 @@
+apple
+banana
+apple
+Cherry
+banana
+apple
+mango
+Cherry
+kiwi
+banana
+mango
+apple

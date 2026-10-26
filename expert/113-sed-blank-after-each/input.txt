@@ -1,0 +1,8 @@
+level
+apple
+racecar
+banana
+madam
+mango
+noon
+kiwi

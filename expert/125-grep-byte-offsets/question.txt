@@ -1,0 +1,6 @@
+TASK: For every occurrence of TODO print its BYTE OFFSET in the whole file,
+followed by a colon (i.e. use grep -ob, then drop the matched text):
+output lines: OFFSET:TODO for each match, in order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

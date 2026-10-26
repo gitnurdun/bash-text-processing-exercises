@@ -1,0 +1,5 @@
+TASK: Print ONLY the line numbers of the lines containing ERROR, one per line.
+Use sed with -n and the = command (no grep).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

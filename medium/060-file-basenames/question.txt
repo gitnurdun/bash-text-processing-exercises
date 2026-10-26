@@ -1,0 +1,7 @@
+input.txt holds one file path per line.
+TASK: For every path print the file name without its directory and without the
+final extension. Example: /var/log/sys.log -> sys   (data.csv.bak -> data.csv)
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

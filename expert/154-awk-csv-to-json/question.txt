@@ -1,0 +1,6 @@
+TASK: Turn each data row into a JSON object using the header as keys:
+{"id":"7","name":"ann","score":"91"} etc. All values as strings, key order as in
+the header, one object per line, header line itself not printed.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

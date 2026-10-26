@@ -1,0 +1,5 @@
+TASK: For each line print the average of it and the 2 PREVIOUS lines (window of
+3, only complete windows). For the first 2 lines print NA. Averages with 1 decimal.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

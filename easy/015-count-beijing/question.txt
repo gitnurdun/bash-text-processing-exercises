@@ -1,0 +1,4 @@
+TASK: Print how many lines of input.txt contain Beijing (just the number).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

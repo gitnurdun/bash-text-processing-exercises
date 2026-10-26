@@ -1,0 +1,6 @@
+input.txt: month item amount (months 1..3).
+TASK: Cross-tab: one line per item (items sorted alphabetically):
+ITEM M1 M2 M3 (0 when nothing was sold).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

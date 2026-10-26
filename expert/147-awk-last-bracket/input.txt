@@ -1,0 +1,4 @@
+x [foo bar] y [baz] w
+[only]
+plain no brackets
+a [b] c [d] e [f]

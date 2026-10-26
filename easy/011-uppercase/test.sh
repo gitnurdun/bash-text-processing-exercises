@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+cd "$(dirname "$0")"
+if [ ! -f answer.txt ]; then echo fail; exit 1; fi
+a=$(cat answer.txt)
+b=$(cat <<'__EXPECTED_$EOF__'
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
+HELLO WORLD, HELLO BASH SCRIPTING!
+ERROR: DISK SPACE LOW ON /DEV/SDA1
+WARNING: BACKUP DELAYED BY 5 MINUTES
+PROCESSING 100 RECORDS FROM FILE INPUT_2024.CSV
+THE RAIN IN SPAIN FALLS MAINLY ON THE PLAIN.
+ERROR: CONNECTION REFUSED AT PORT 8080
+KEEP 3 SPACES   BETWEEN   WORDS HERE
+__EXPECTED_$EOF__
+)
+if [ "$a" = "$b" ]; then echo pass; else echo fail; fi
+exit 0

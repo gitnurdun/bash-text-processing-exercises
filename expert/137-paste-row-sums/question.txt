@@ -1,0 +1,5 @@
+Three equal-length number files. TASK: Line them up side by side (paste) and
+print the sum of each row, one number per line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

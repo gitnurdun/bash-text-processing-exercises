@@ -1,0 +1,5 @@
+TASK: Count every 2-letter window (overlapping, within each line) across the
+file. Print the 5 most common: COUNT BIGRAM, by count desc, ties alphabetical.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

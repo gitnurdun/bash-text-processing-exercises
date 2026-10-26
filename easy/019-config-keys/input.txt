@@ -1,0 +1,10 @@
+# server config
+host=localhost
+port=8080
+
+timeout=30
+# debug flags
+debug=true
+loglevel=info
+max_conn=100
+retry=3

@@ -1,0 +1,5 @@
+TASK: Print the longest word (whitespace-separated field) of each line, one per line.
+If two words tie, print the first one.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+input.txt: student score.  input.txt2: student grade.
+TASK: For each line of input.txt append the matching grade from input.txt2.
+Output: NAME SCORE GRADE, same order as input.txt.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

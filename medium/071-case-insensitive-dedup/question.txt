@@ -1,0 +1,5 @@
+TASK: Remove case-insensitive duplicates, keeping the FIRST appearance of each
+word (with its original spelling). Preserve order.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

@@ -1,0 +1,6 @@
+TASK: Join every line that ends with a backslash to the next line, deleting the
+backslash and the newline. Keep all other spaces (including indentation) as they
+are. Use a sed label loop (:a ... N ... ba).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

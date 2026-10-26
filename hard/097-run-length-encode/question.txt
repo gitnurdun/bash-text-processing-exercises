@@ -1,0 +1,5 @@
+TASK: Run-length encode each line: every maximal run of equal characters becomes
+<char><count>. Example: aaabbbccccd -> a3b3c4d1
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

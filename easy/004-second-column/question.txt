@@ -1,0 +1,5 @@
+input.txt holds one record per line: name dept salary age city (space separated).
+TASK: Print only the dept column (field 2), one per line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

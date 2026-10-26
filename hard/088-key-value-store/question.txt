@@ -1,0 +1,8 @@
+input.txt holds commands: "SET key value" stores a value (later SETs overwrite),
+"GET key" asks for the stored value.
+TASK: Process the commands in order. For every GET print the stored value,
+or - if the key was never set.
+
+Write your solution as answer.sh in this folder. Running "bash answer.sh"
+must print the exact output to stdout, reading files from the current folder.
+Then run: bash test.sh   (it prints pass or fail)

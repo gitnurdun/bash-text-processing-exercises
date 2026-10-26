@@ -1,0 +1,5 @@
+input.txt is an access log (ip is field 1). input.txt2 lists allowed IPs.
+TASK: Print the distinct IPs that appear in the log but are NOT in the allow list.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

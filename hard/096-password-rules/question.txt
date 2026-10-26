@@ -1,0 +1,5 @@
+A candidate password is OK when it is at least 8 characters AND contains a digit.
+TASK: Print VALID or INVALID for each line.
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

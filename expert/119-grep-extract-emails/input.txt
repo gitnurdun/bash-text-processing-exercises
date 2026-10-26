@@ -1,0 +1,4 @@
+Write to admin_team@corp-1.example.com now
+sales.dept@sub.example.org and broken@no-tld please
+no mail here
+x@y.io works, but not @orphan or me@.hidden

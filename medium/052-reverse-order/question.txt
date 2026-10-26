@@ -1,0 +1,4 @@
+TASK: Print the file with the line order reversed (last line first).
+
+Save your result as answer.txt (the exact output text, nothing else),
+then run: bash test.sh   (it prints pass or fail)

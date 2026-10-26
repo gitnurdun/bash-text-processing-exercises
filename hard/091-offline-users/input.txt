@@ -1,0 +1,3 @@
+{"user":"alice","role":"admin","state":"on"}
+{"user":"bob","role":"guest","state":"off"}
+{"user":"cara","role":"admin","state":"off"}
